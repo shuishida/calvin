@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JetBrains project settings
+.idea
+
+# Visual Studio Code settings
+.vscode
+
+# data directory
+data/*
+
+**/sandbox
+
+scripts/download.sh
+
+gym_miniworld
+
+third_party
+
+
+.env
+
