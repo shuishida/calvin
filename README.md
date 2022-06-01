@@ -1,6 +1,8 @@
 # Towards real-world navigation with deep differentiable planners
 Shu Ishida, João F. Henriques (Visual Geometry Group, University of Oxford)
 
+![CALVIN has been tested in a grid maze environment, MiniWorld and with the Active Vision Dataset](https://user-images.githubusercontent.com/16188477/171409595-75b53424-5038-48bf-9c70-3b4144f1e09e.png)
+
 ## Overview
 This is the official code for [the paper](https://arxiv.org/abs/2108.05713): S. Ishida, J. F. Henriques "Towards real-world navigation with deep differentiable planners", CVPR 2022.
 This code base allows us to easily switch between variations of VIN-like deep differentiable planners (VIN, GPPN and CALVIN) and different training environments (grid world, MiniWorld and AVD).
