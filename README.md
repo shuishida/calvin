@@ -81,7 +81,7 @@ pip install -e .
 cd ../../
 ```
 
-##### Active Vision Dataset (Skip if not using AVD environment)
+##### [Active Vision Dataset](https://www.cs.unc.edu/~ammirato/active_vision_dataset_website/index.html) (Skip if not using AVD environment)
 In order to perform experiments for AVD, you need to download the dataset from the [AVD website](https://www.cs.unc.edu/~ammirato/active_vision_dataset_website/index.html), and place it under `./data/avd/src`.
 You also need to place `./data/avd/src/train.txt` and `./data/avd/src/val.txt`, which are text files defining which scenes you want to use as train and val scenes, where scene names are separated by new lines.
 Please make sure that each scene subdirectory contains a `cameras.txt` file, which provides the camera parameters. If these are not available, please contact the authors of the AVD paper.
