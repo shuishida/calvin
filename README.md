@@ -8,7 +8,7 @@ This is the official code for [the paper](https://arxiv.org/abs/2108.05713): S. 
 This code base allows us to easily switch between variations of VIN-like deep differentiable planners (VIN, GPPN and CALVIN) and different training environments (grid world, MiniWorld and AVD).
 
 ### Blog post
-Please check out the [official blog post for CALVIN](https://www.robots.ox.ac.uk/~vgg/blog/calvin-a-neural-network-that-can-learn-to-plan-and-navigate-unknown-environments.html).
+Please check out the [official blog post on CALVIN](https://www.robots.ox.ac.uk/~vgg/blog/calvin-a-neural-network-that-can-learn-to-plan-and-navigate-unknown-environments.html).
 
 ### Citing
 If you find this code base or models useful in your research, please consider citing the following paper:
